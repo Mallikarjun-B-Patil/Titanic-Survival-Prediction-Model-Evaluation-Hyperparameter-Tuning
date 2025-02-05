@@ -32,5 +32,3 @@ This project analyzes the Titanic dataset to predict passenger survival using ma
 Clone the repository:
    ```bash
    git clone https://github.com/Mallikarjun-B-Patil/Titanic-Survival-Prediction-Model-Evaluation-Hyperparameter-Tuning.git
----
-🚀 *Feel free to contribute, raise issues, or suggest improvements!*
